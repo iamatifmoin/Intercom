@@ -65,8 +65,8 @@ const Home: React.FC = () => {
               </h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
                 Click the chat bubble in the bottom-right corner to start a
-                conversation with our agents. If not visible, go to the
-                dashboard and start a conversation.
+                conversation with our agents. If not visible, click on 'Access
+                Dashboard' and start a conversation.
               </p>
               <div className="text-sm text-[#006eff] font-medium">
                 Active on this page
